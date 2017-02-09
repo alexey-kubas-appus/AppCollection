@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  AppusApplications
+
+  Created by Vladimir Grigoriev, Appus Studio on 2/6/17.
+*/
+
+"Applications" = "Приложения";
+"Application details" = "Детали приложения";
+"Description" = "Описание";
+"Information" = "Информация";
+"Developer" = "Разработчик";
+"Category" = "Категория";
+"Updated" = "Обновленно";
+"Rating" = "Ограничение";
+"Compatibility" = "Совместимость";
+"Languages" = "Языки";
+"Rated" = "Возраст";
+"Cancel" = "Отмена";
+"Loading" = "Загрузка";
+"Requires iOS %@ or later. %@" = "Требуется iOS %@ или более поздняя версия. %@";
+"Compatible with" = "Совместимо с";
+"and" = "и";
+
+"countries" = "countries(ru)";
