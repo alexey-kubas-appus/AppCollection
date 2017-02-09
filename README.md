@@ -3,15 +3,15 @@ App Collection
 
 Made by [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/master/image/logo.png)](http://appus.pro)
 
-‘App Collection’ show list of applications from iTunes with details.
+"App Collection" show list of applications from iTunes with details.
 
 
-![App Collection: Show list of applications from iTunes with details](https://github.com/ilya-borshchov-appus/TestApplicationRepo/blob/master/AppCollection/Resources/IMG_7827.png)
-![App Collection: Show list of applications from iTunes with details](https://github.com/ilya-borshchov-appus/TestApplicationRepo/blob/master/AppCollection/Resources/IMG_7828.png)
+![App Collection: Show list of applications from iTunes with details](https://github.com/alexey-kubas-appus/AppCollection/blob/master/AppCollection/Resources/IMG_7827.png)
+![App Collection: Show list of applications from iTunes with details](https://github.com/alexey-kubas-appus/AppCollection/blob/master/AppCollection/Resources/IMG_7828.png)
 
 #Setup
 ```Ruby
-pod ‘AppCollection’
+pod 'AppCollection', :git => 'https://github.com/alexey-kubas-appus/AppCollection.git'
 ```
 
 ```swift
