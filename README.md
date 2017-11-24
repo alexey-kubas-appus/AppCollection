@@ -1,7 +1,7 @@
 App Collection
 =====================
 
-Made by [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/master/image/logo.png)](http://appus.pro)
+Made by [![Appus Studio](https://github.com/alexey-kubas-appus/AppCollection/blob/master/AppCollection/Resources/appus.png)](https://appus.software)
 
 "App Collection" show list of applications from iTunes with details.
 
@@ -49,12 +49,12 @@ override func viewDidLoad() {
 Developed By
 ------------
 
-* Ilya Borshchov, Vladimir Grigoriev Appus Studio
+* Ilya Borshchov, Vladimir Grigoriev [Appus Studio](https:appus.software)
 
 License
 --------
 
-Copyright 2015 Appus Studio.
+Copyright 2015 [Appus Studio](https:appus.software).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
